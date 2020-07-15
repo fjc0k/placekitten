@@ -2,7 +2,11 @@
 
 ## 使用方法
 
-https://cdn.jsdelivr.net/gh/fjc0k/placekitten/images/{width}/{height}.jpg
+宽度范围: `10, 20, 30, ... , 100, 110, ... , 1000`
+
+高度范围: `10, 20, 30, ... , 100, 110, ... , 1000`
+
+图片地址: `https://cdn.jsdelivr.net/gh/fjc0k/placekitten/images/{宽度}/{高度}.jpg`
 
 ## 图片来源
 

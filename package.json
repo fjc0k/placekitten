@@ -1,0 +1,31 @@
+{
+  "name": "placekitten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ts-node -T ./scripts/generate.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fjc0k/placekitten.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fjc0k/placekitten/issues"
+  },
+  "homepage": "https://github.com/fjc0k/placekitten#readme",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.1",
+    "@types/node": "^14.0.22",
+    "@types/sharp": "^0.25.0",
+    "fs-extra": "^9.0.1",
+    "got": "^11.5.0",
+    "prettier": "^2.0.5",
+    "sharp": "^0.25.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.6",
+    "vtils": "^3.18.2"
+  }
+}
